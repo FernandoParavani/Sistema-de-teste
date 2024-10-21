@@ -3,7 +3,5 @@
 > Status do projeto: Em desenvolvimento
 >
 > 
-"""
-npm install react
 
-"""
+npm install react
