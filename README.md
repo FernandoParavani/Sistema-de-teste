@@ -2,5 +2,6 @@
 
 > Status do projeto: Em desenvolvimento 
 
-´´´node app.js
+´´´bash
+node app.js
 
