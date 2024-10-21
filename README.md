@@ -2,6 +2,7 @@
 
 > Status do projeto: Em desenvolvimento 
 
-'''bash
+### Como rodar o projeto
+```bash
 node app.js
 
